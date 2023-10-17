@@ -13,4 +13,5 @@ else {
     largest = num3;
 }
 
+console.log(largest+" is greater number");
 console.log("The largest number is " + largest);
