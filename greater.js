@@ -3,6 +3,7 @@ const num2 = parseFloat(prompt("Enter second number: "));
 const num3 = parseFloat(prompt("Enter third number: "));
 let largest;
 
+console.log("Below code finds greater of three numbers");
 if(num1 >= num2 && num1 >= num3) {
     largest = num1;
 }
